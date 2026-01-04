@@ -31,4 +31,4 @@ An asynchronous online RPG table manager solving latency issues for players.
 ---
 
 📫 **Let's connect!**
-[LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) • pablo.alx.vasconcelos@outlook.com
+[LinkedIn](https://www.linkedin.com/in/pablo-vasconcelos-4b5bb13a4/) • pablo.alx.vasconcelos@outlook.com
