@@ -39,18 +39,6 @@ Full WAI-ARIA & WCAG compliance, keyboard navigation, colorblindness modes and i
 
 ## 📬 Let's connect!
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-pablo--vsc-blue?style=flat&logo=linkedin)
-
-(https://linkedin.com/in/pablo-vsc)]
-[
-
-![Email](https://img.shields.io/badge/Email-pablo.alx.vasconcelos%40outlook.com-blue?style=flat&logo=microsoft-outlook)
-
-(mailto:pablo.alx.vasconcelos@outlook.com)]
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-PabloTechDev-black?style=flat&logo=github)
-
-(https://github.com/PabloTechDev)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablo--vsc-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pablo-vsc)
+[![Email](https://img.shields.io/badge/Email-pablo.alx.vasconcelos%40outlook.com-blue?style=flat&logo=microsoft-outlook)](mailto:pablo.alx.vasconcelos@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PabloTechDev-black?style=flat&logo=github)](https://github.com/PabloTechDev)
