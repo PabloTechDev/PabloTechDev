@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo! 👋
 
-I'm a **Frontend Developer** from Brazil, focused on building **accessible, scalable and high-performance** web applications. I care about the entire product lifecycle — from UI/UX design to architecture and deployment. Lately I've also been getting hands-on with automation, APIs and DevOps basics (Python, SQL, Docker).
+I'm a **Software Developer** from Brazil, focused on building **accessible, scalable and high-performance** web applications. I care about the entire product lifecycle — from UI/UX design to architecture and deployment. Lately I've also been getting hands-on with automation, APIs and DevOps basics (Python, SQL, Docker).
 
 - 🚀 Currently building my **personal portfolio**
 - ⚡ Sharpening my skills in TypeScript, React and backend automation (Python)
