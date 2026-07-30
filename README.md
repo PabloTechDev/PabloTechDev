@@ -1,9 +1,9 @@
 # Hi there, I'm Pablo! 👋
 
-I'm a **Frontend Developer** from Brazil, focused on building **accessible, scalable and high-performance** web applications. I care about the entire product lifecycle — from UI/UX design to architecture and deployment.
+I'm a **Frontend Developer** from Brazil, focused on building **accessible, scalable and high-performance** web applications. I care about the entire product lifecycle — from UI/UX design to architecture and deployment. Lately I've also been getting hands-on with automation, APIs and DevOps basics (Python, SQL, Docker).
 
 - 🚀 Currently building my **personal portfolio**
-- ⚡ Sharpening my skills in **TypeScript & React**
+- ⚡ Sharpening my skills in TypeScript, React and backend automation (Python)
 - ♿ Deep believer that **Accessibility + Performance = Great Products**
 - 🎓 Open to **internship opportunities**
 
@@ -11,11 +11,11 @@ I'm a **Frontend Developer** from Brazil, focused on building **accessible, scal
 
 ## 🛠️ Tech Stack & Tools
 
-**Core:** `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3`
+**Core:** `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `Python` `SQL`
 
 **Frameworks & Libs:** `React.js` `Next.js` `Tailwind CSS` `Node.js`
 
-**Deploy & Tools:** `Vercel` `Serverless Functions` `Git` `GitHub` `Figma` `VS Code`
+**Deploy & Tools:** `Vercel` `Serverless Functions` `Git` `GitHub` `Figma` `VS Code` `Docker`
 
 **APIs:** `REST (Fetch/Axios)` `OpenStreetMap (Nominatim & Overpass)`
 
